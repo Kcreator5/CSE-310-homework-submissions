@@ -1,0 +1,49 @@
+{
+    "C++": {
+        "created_at": "2026-05-04T17:53:03.284112",
+        "entries": [
+            {
+                "start_text": "Starting to learn C++",
+                "start_time": "2026-05-04T17:53:30.409707",
+                "end_text": "Learning the basics on wiki with C++",
+                "end_time": "2026-05-04T18:25:27.416518",
+                "duration_seconds": 1917.006811
+            },
+            {
+                "start_text": "Continuing research on C++",
+                "start_time": "2026-05-06T18:12:12.729907",
+                "end_text": "",
+                "end_time": "2026-05-06T18:53:04.953734",
+                "duration_seconds": 2452.223827
+            },
+            {
+                "start_text": "Learning while canvas is down",
+                "start_time": "2026-05-07T16:00:35.101707",
+                "end_text": "Installing C++",
+                "end_time": "2026-05-07T18:14:34.404595",
+                "duration_seconds": 8039.302888
+            },
+            {
+                "start_text": "Instalation",
+                "start_time": "2026-05-10T18:28:58.110612",
+                "end_text": "why is installing things to PATH SO DIFFICULT!? I got it finnally installed",
+                "end_time": "2026-05-10T21:11:43.833793",
+                "duration_seconds": 9765.723181
+            },
+            {
+                "start_text": "Actually starting on the project after installation -_-",
+                "start_time": "2026-05-11T16:53:33.729317",
+                "end_text": "Finnally got a working program to work",
+                "end_time": "2026-05-11T18:43:05.107854",
+                "duration_seconds": 6571.378537
+            },
+            {
+                "start_text": "Finishing up program",
+                "start_time": "2026-05-11T20:55:35.033590",
+                "end_text": "",
+                "end_time": null,
+                "duration_seconds": null
+            }
+        ]
+    }
+}
