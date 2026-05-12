@@ -40,9 +40,9 @@
             {
                 "start_text": "Finishing up program",
                 "start_time": "2026-05-11T20:55:35.033590",
-                "end_text": "",
-                "end_time": null,
-                "duration_seconds": null
+                "end_text": "Resolving merging conflics with main, due to the unrelated historys it had.",
+                "end_time": "2026-05-11T23:27:50.834073",
+                "duration_seconds": 9135.800483
             }
         ]
     }
