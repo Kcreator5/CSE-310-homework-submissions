@@ -45,5 +45,17 @@
                 "duration_seconds": 9135.800483
             }
         ]
+    },
+    "Networking Sprint": {
+        "created_at": "2026-05-18T17:29:50.870121",
+        "entries": [
+            {
+                "start_text": "Starting Networking",
+                "start_time": "2026-05-18T17:32:46.252273",
+                "end_text": "Decided on a Godot pong game, that will use a LAN network",
+                "end_time": "2026-05-18T19:00:00.000000",
+                "duration_seconds": 5233.747727
+            }
+        ]
     }
 }
