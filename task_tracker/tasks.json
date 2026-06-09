@@ -55,6 +55,53 @@
                 "end_text": "Decided on a Godot pong game, that will use a LAN network",
                 "end_time": "2026-05-18T19:00:00.000000",
                 "duration_seconds": 5233.747727
+            },
+            {
+                "start_text": "Day 2",
+                "start_time": "2026-05-21T18:48:18.854341",
+                "end_text": "",
+                "end_time": "2026-05-21T21:54:52.921814",
+                "duration_seconds": 11194.067473
+            },
+            {
+                "start_text": "simple Godot game working, now to start trying to connect it to a LAN network",
+                "start_time": "2026-05-23T19:32:08.556954",
+                "end_text": "Failed to connect the two together before deadline. But at least I learned a few things at least. I might return to this project later.",
+                "end_time": "2026-05-23T23:39:15.476261",
+                "duration_seconds": 14826.919307
+            }
+        ]
+    },
+    "Game_Fraimwork {sprint 3}": {
+        "created_at": "2026-05-25T16:13:05.826473",
+        "entries": [
+            {
+                "start_text": "Starting Game fraimworks early so I don't repeat last sprints mistake",
+                "start_time": "2026-05-25T16:14:11.960162",
+                "end_text": "Installing codex exstention",
+                "end_time": "2026-05-25T19:12:37.782999",
+                "duration_seconds": 10705.822837
+            },
+            {
+                "start_text": "Designing ping pong game",
+                "start_time": "2026-05-27T17:12:21.757942",
+                "end_text": "I was able to implement some relistic physiscs with the help of Codex",
+                "end_time": "2026-05-27T18:49:25.934420",
+                "duration_seconds": 5824.176478
+            },
+            {
+                "start_text": "Adding in floor and serving",
+                "start_time": "2026-06-01T18:58:59.584292",
+                "end_text": "was able to impliment a serving system",
+                "end_time": "2026-06-01T20:56:52.592525",
+                "duration_seconds": 11873.008233
+            },
+            {
+                "start_text": "Working on networking now, man I've been dragging my feet on this :(",
+                "start_time": "2026-06-06T20:05:58.579085",
+                "end_text": "It is sucsesful! I have no idea how I would of done it without codex :(",
+                "end_time": "2026-06-06T23:33:50.818311",
+                "duration_seconds": 12472.239226
             }
         ]
     }
