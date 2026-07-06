@@ -128,6 +128,27 @@
                 "end_text": "Intalling flutter and setting it up is harder then I thought it would be....",
                 "end_time": "2026-06-18T13:53:46.351104",
                 "duration_seconds": 6425.080751
+            },
+            {
+                "start_text": "converting current game into a mobile application",
+                "start_time": "2026-06-18T20:09:12.234684",
+                "end_text": "got the aspect ratio working and tweaked some things too",
+                "end_time": "2026-06-18T22:47:36.373026",
+                "duration_seconds": 9504.138342
+            },
+            {
+                "start_text": "Downlaoding adroid studio and setting up paths for Godot",
+                "start_time": "2026-06-20T18:31:32.638177",
+                "end_text": "Man, downloading and installing things take so long smh.",
+                "end_time": "2026-06-20T19:46:12.824784",
+                "duration_seconds": 4480.186607
+            },
+            {
+                "start_text": "Seeing if this works to turn this into a moble app",
+                "start_time": "2026-06-21T17:06:41.355328",
+                "end_text": "I have a working mobile application now",
+                "end_time": "2026-06-21T20:22:41.355328",
+                "duration_seconds": 11760
             }
         ]
     }
