@@ -1,0 +1,29 @@
+--- invintory-database ---
+Created: 07/02/2026, 05:32:36 PM
+Status: Closed
+Total time on task: 11h 14m
+
+Start Entry 1: Working on concept
+Date: 07/02/2026
+Time: 05:32 PM
+--
+End Entry 1: Created a simple python invintory program, I should fill all requirements at the moment I think.
+Time: 09:09 PM
+Total time for this entry: 3h 36m
+---------------------
+Start Entry 2: I'm gonna see if I can tie this project to a chrome exstention that I want to create. At the very least I should have a working submition in case it doesn't work.
+Date: 07/03/2026
+Time: 11:16 AM
+--
+End Entry 2: I was able to create a crome extension! (with the help of Codex, but still though really cool. now my goal is to make it where it can use MySQL data base)
+Time: 04:02 PM
+Total time for this entry: 4h 46m
+---------------------
+Start Entry 3: Trying to see if I can have the Chrome extension work for the assignment.
+Date: 07/06/2026
+Time: 03:02 PM
+--
+End Entry 3: eh, it would take to much effort to make it work. Going back to plan A and submitting it
+Time: 05:54 PM
+Total time for this entry: 2h 51m
+---------------------
